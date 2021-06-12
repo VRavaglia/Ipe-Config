@@ -1,0 +1,40 @@
+<ipestyle name="circuits">
+<symbol name="Components/battery" transformation="translation">
+<path matrix="0 1 -1 0 592 -228" stroke="black" pen="1" join="0">
+228 600 m
+228 584 l
+236 616 m
+236 568 l
+208 592 m
+228 592 l
+236 592 m
+256 592 l
+</path>
+</symbol>
+<symbol name="Components/mos" transformation="translation">
+<group>
+<path stroke="black">
+288 720 m
+288 712 l
+280 712 l
+</path>
+<path matrix="1 0 0 1 0 -4" stroke="black">
+288 684 m
+288 692 l
+280 692 l
+</path>
+<path matrix="1 0 0 1.16667 0 -119.333" stroke="black" pen="1.4">
+280 716 m
+280 688 l
+</path>
+<path matrix="1 0 0 1.2 0 -142.4" stroke="black" pen="1.4">
+276 712 m
+276 692 l
+</path>
+<path stroke="black" pen="0.7">
+276 700 m
+268 700 l
+</path>
+</group>
+</symbol>
+</ipestyle>
